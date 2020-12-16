@@ -1,0 +1,9 @@
+S->BE
+B->BMNZ
+ZM->MZ
+ZN->NMMZ
+ZE->E
+B->F
+FN->F
+FM->aF
+FE->
